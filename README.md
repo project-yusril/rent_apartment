@@ -2,6 +2,8 @@
 
 Rent Apartment App Design By Yusril Eka Mahendra
 
+![Rent Apartment](https://user-images.githubusercontent.com/65325397/92462274-78d8a680-f1f4-11ea-92b1-eb29ac39a649.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
